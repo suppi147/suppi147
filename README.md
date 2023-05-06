@@ -9,7 +9,8 @@ As a third-year student with a passion for programming and software development,
 *   🌍  I'm based in Thu Duc City
 *   ✉️  You can contact me at [khoitran2090@gmail.com](mailto:khoitran2090@gmail.com)
 *   🚀  I'm currently working on [Noteziee](http://https://noteziee.cloud/)
-*   🧠  I'm learning Springboot### Skills 
+*   🧠  I'm learning Springboot
+### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
