@@ -1,7 +1,7 @@
 Hi 👋 My name is Tran Le Khoi
 =============================
 
-I'm a Backend Developer Intern
+I'm a Backend Developer
 ------------------
 
 As a third-year student with a passion for programming and software development, I have honed my skills in Java, PHP, and C# programming languages. With a dedication to creating efficient and reliable code, I am well-equipped to take on a backend developer role. With a focus on designing, testing, and implementing scalable applications, I have experience in developing software that integrates with databases and APIs. This experience has taught me the importance of both effective collaboration with team members and the use of modern best practices in software development.
