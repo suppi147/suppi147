@@ -8,7 +8,7 @@ As a third-year student with a passion for programming and software development,
 
 *   🌍  I'm based in Thu Duc City
 *   ✉️  You can contact me at [khoitran2090@gmail.com](mailto:khoitran2090@gmail.com)
-*   🚀  I'm currently working on [Noteziee](https://noteziee.cloud/)
+*   🚀  I'm currently working on [Filemei](https://github.com/suppi147/Filemei)
 *   🧠  I'm learning Springboot
 ### Skills 
 <p align="left">
